@@ -53,5 +53,23 @@
 
 **tomorrow plan:**
 * 开始学习 RISC-V特权指令级架构
+
+
+
+### Day 05(10/14)
+
+**today study:**
+* 《计算机组成与设计 RICS-V》 第一章 - 1/6
+
+**tomorrow plan:**
+* 《计算机组成与设计 RICS-V》 第二章 - 1/6
+
+### Day 05(10/15)
+
+**today study:**
+* 《计算机组成与设计 RICS-V》 第二章 - 2/6
+
+**tomorrow plan:**
+* 《计算机组成与设计 RICS-V》 第三章
 --------------
 
