@@ -73,3 +73,37 @@
 * 《计算机组成与设计 RICS-V》 第三章
 --------------
 
+### Day 05(10/16)
+
+**today study:**
+* 《计算机组成与设计 RICS-V》 第三章 - 3/6
+
+**tomorrow plan:**
+* 《计算机组成与设计 RICS-V》 第四章
+--------------
+
+
+### Day 05(10/17)
+
+**today study:**
+* 《计算机组成与设计 RICS-V》 第四章 - 4/6
+
+**tomorrow plan:**
+* 《计算机组成与设计 RICS-V》 第五章
+
+### Day 05(10/19)
+
+**today study:**
+* 《计算机组成与设计 RICS-V》 第五章 - 5/6
+
+**tomorrow plan:**
+* 《计算机组成与设计 RICS-V》 第六章
+
+### Day 05(10/22)
+
+**today study:**
+* 《计算机组成与设计 RICS-V》 第六章 - 6/6
+
+**tomorrow plan:**
+*  实验环境配置
+--------------
